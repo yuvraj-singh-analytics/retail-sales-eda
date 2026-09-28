@@ -4,12 +4,12 @@ An end-to-end Exploratory Data Analysis project analyzing retail sales performan
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
-* **Data Manipulation & Cleaning:** Pandas, NumPy[cite: 8]
-* **Data Visualization:** Seaborn, Matplotlib[cite: 8]
+* **Data Manipulation & Cleaning:** Pandas, NumPy
+* **Data Visualization:** Seaborn, Matplotlib
 
 ## 📊 Project Overview
 This project evaluates retail dataset parameters (8,523 entries across 13 features) to extract key business insights:
-* **Univariate & Bivariate Analysis:** Examined distributions of Item Weight, Item MRP, and Item Outlet Sales to spot core sales drivers[cite: 8].
+* **Univariate & Bivariate Analysis:** Examined distributions of Item Weight, Item MRP, and Item Outlet Sales to spot core sales drivers.
 * **Missing Value Treatment:** Handled missing data entries using group-based imputation methods to preserve data integrity.
 * **Feature Exploration:** Assessed outlet establishment years, location tiers, and item types to identify top-performing retail segments and profitability bottlenecks.
 
